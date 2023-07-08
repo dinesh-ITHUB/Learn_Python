@@ -16,5 +16,4 @@ print (tup + tup)
 print (tup * 3)     
   
 # Adding value to tup. It will throw an error.  
-t[2] = "hi"  
-
+t[2] = "hi"
