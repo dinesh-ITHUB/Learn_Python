@@ -1,4 +1,4 @@
-tup  = ("hiyio", 4, 6, 8, 9, 3, 5 , 7, "name", "Python", 2)    
+tup  = ("hi", 4, 7, "name", "Python", 2)    
 # Checking type of tup  
 print (type(tup))    
   
@@ -7,7 +7,9 @@ print (tup)
   
 # Tuple slicing  
 print (tup[1:])    
-print (tup[0:3:2])    
+print (tup[0:3:2]) 
+print (tup[4][1:])
+print (tup[4][0:3:2])    
   
 # Tuple concatenation using + operator  
 print (tup + tup)    
