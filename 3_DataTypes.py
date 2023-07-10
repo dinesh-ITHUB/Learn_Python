@@ -14,4 +14,4 @@ print(" c is a complex number", isinstance(1+3j,complex))
 # Python program to check the boolean type  
 print(type(True))  
 print(type(False))  
-print(false)  
+print(False)  
